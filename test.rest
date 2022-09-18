@@ -8,8 +8,8 @@ POST {{url}}/login
 content-type: application/json
  
 {
-    "username": "hd",
-    "password": "hd123"
+    "username": "Sevde",
+    "password": "123456"
 }
 
 ### LOGIN ANDREA
@@ -17,8 +17,8 @@ POST {{url}}/login
 content-type: application/json
  
 {
-    "username": "an",
-    "password": "an123"
+    "username": "Ömer",
+    "password": "123456"
 }
 
 ### GET CURRENT USER
